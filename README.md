@@ -1,1 +1,1 @@
-# BitcoinQ-A
+# BitcoinQA
